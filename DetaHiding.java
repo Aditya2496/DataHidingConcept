@@ -9,7 +9,7 @@ public class DetaHiding {
 		System.out.println("Rucha");
 	}
 	public static void main2(String[] args) {
-		System.out.println("Aditya");
+		System.out.println("Aditya Kute");
 	}
 
 }
